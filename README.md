@@ -1,8 +1,3 @@
-===========
-keywords_en
-===========
-
-
 # keywords extract
 ---
 英文关键词抽取
@@ -12,6 +7,18 @@ keywords_en
 - topicRank
 - textRank
 - keyBert
+
+# Install
+
+```
+pip install keywords_en
+```
+或者
+
+```
+pip install -r requirements_dev.txt
+python setup.py install
+```
 
 
 ``` 

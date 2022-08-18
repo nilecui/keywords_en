@@ -1,0 +1,3 @@
+[console_scripts]
+keywords_en = keywords_en.cli:main
+

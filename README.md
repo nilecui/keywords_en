@@ -3,29 +3,16 @@ keywords_en
 ===========
 
 
-.. image:: https://img.shields.io/pypi/v/keywords_en.svg
-        :target: https://pypi.python.org/pypi/keywords_en
+# keywords extract
+---
+英文关键词抽取
+支持方法：
+- tfIdf
+- yake
+- topicRank
+- textRank
+- keyBert
 
-.. image:: https://img.shields.io/travis/nilecui/keywords_en.svg
-        :target: https://travis-ci.com/nilecui/keywords_en
-
-.. image:: https://readthedocs.org/projects/keywords-en/badge/?version=latest
-        :target: https://keywords-en.readthedocs.io/en/latest/?version=latest
-        :alt: Documentation Status
-
-
-
-
-keywords extract
-
-
-* Free software: GNU General Public License v3
-* Documentation: https://keywords-en.readthedocs.io.
-
-Features
---------
-
-* TODO
 
 ``` 
 from keywords_en import KeyWordsEn
